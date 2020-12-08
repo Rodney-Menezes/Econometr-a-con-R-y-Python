@@ -2,8 +2,7 @@
 Econometría aplicación con R y Python
 
 Este repositorio comprende el curso de especialización
-De Econometría aplicada con R y Python que tuve el 
-Placer de dictar en el Colegio de Economistas de la Libertad.
+De Econometría aplicada con R y Python que tuve el placer de dictar en el Colegio de Economistas de la Libertad.
 
 Comprende todos los tópicos de Econometría de pregrado
 Como: modelos de datos de corte transversal, series de tiempo, panel de datos y econometría espacial.
