@@ -1,4 +1,4 @@
-# Econometr-a-con-R-y-Python
+# Econometria-con-R-y-Python
 Econometría aplicación con R y Python
 
 Este repositorio comprende el curso de especialización
